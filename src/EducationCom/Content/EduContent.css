@@ -1,0 +1,17 @@
+.eduContentComponent {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.eduContentComponent .rightComponent .rightComponentDiv {
+  width: 500px;
+  height: auto;
+  background-color: aliceblue;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+.eduContentComponent .rightComponent .rightComponentDiv .rightComponentContent {
+  text-align: start;
+  margin-left: 10px;
+}

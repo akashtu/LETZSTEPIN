@@ -1,0 +1,9 @@
+.whatContainer {
+  padding: 0px 50px;
+  margin-bottom: 100px;
+}
+.whatContainer hr {
+  width: 20%;
+  background-color: brown;
+  height: 5px;
+}

@@ -1,0 +1,18 @@
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: grey;
+  padding: 0px 15px;
+  margin-bottom: 20px;
+}
+.navContainer .navUl {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+.navContainer .navUl li {
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}

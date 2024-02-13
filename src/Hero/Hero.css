@@ -1,0 +1,13 @@
+.heroWrapper {
+  background-image: url("https://www.letzstepin.com/bgvr.png");
+  /* width: 100%; */
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+}
+.appointmentWrapper {
+  position: absolute;
+  top: 250px;
+  right: 100px;
+}

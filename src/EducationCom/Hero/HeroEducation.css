@@ -1,0 +1,16 @@
+.heroEduComponent {
+  background-image: url("https://educational-website-reactjs.netlify.app/static/media/bg.baa1024a4ae092566a75.webp");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 100vh;
+}
+.heroEduComponent .component {
+  margin-right: 45%;
+  padding-top: 10%;
+  width: 30%;
+  padding-left: 50px;
+  color: white;
+}
+.heroEduComponent .component h3 {
+  font-size: 40px;
+}

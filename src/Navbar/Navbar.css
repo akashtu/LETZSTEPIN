@@ -1,0 +1,60 @@
+.navbarrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 100;
+  margin: 0px 40px;
+}
+.navbarrapper ul {
+  display: flex;
+  align-items: center;
+}
+.navbarrapper ul li {
+  list-style: none;
+  margin-right: 20px;
+  cursor: pointer;
+  color: white;
+}
+.Booknow {
+  width: auto;
+  height: auto;
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+.navbarrapper h3 {
+  width: auto;
+  height: auto;
+  background-color: blueviolet;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.dropDownul {
+  display: flex;
+  flex-direction: column;
+  /* color: black; */
+}
+.dropDownul li {
+  color: black !important;
+  font-size: 20px;
+  font-weight: 500;
+}
+.navbarrapper .dropDown .dropDownul {
+  padding-left: 0px !important;
+  margin-bottom: 15px;
+}
+.dropDown {
+  position: absolute;
+  left: 75%;
+  display: none;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.navbarrapper .hoverClass:hover .dropDown {
+  display: block;
+  transition: 0.5s all ease-in-out;
+}

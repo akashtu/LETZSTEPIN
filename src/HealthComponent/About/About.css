@@ -1,0 +1,20 @@
+.aboutContainer {
+  background: linear-gradient(90deg, #ecf2ff, #fbfcff);
+  height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px;
+}
+.aboutContainer .rightContainer {
+  width: 50%;
+  text-align: start;
+}
+.aboutContainer .rightContainer p {
+  font-size: 18px;
+  font-weight: 400;
+}
+.aboutContainer .leftContainer {
+  padding-left: 30px;
+}

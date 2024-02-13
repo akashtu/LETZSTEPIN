@@ -1,0 +1,31 @@
+.testominalComponent .testominalInner {
+  display: flex;
+  justify-content: space-around;
+}
+.testominalComponent .testominalInner .testominalChildInner {
+  background-color: beige;
+  width: 400px;
+  height: auto;
+  padding: 20px;
+  border-radius: 20px;
+  transition: 0.3s all ease-in-out;
+  cursor: pointer;
+}
+.testominalComponent .testominalInner .testominalChildInner:hover {
+  transform: rotate(10deg);
+}
+.testominalComponent .testominalInner .testominalChildInner .testominalChild {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.testominalComponent
+  .testominalInner
+  .testominalChildInner
+  .testominalChild
+  .content {
+  width: 100%;
+}
+.testominalComponent h3 {
+  color: #1eb2a6;
+}

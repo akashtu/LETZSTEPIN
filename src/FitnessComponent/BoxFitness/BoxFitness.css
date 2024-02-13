@@ -1,0 +1,23 @@
+.boxFitnessComponent .boxFitnessInner {
+  width: 400px;
+  height: auto;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: red;
+  transition: 0.5s all ease-in-out;
+  cursor: pointer;
+}
+.boxFitnessComponent .boxFitnessInner:hover {
+  transform: rotate(5deg);
+}
+.boxFitnessComponent {
+  display: flex;
+  justify-content: space-around;
+}
+.boxFitnessComponent .boxFitnessInner .boxContent {
+  color: white;
+}
+.boxFitnessComponent .boxColor {
+  background-color: #222222 !important;
+}

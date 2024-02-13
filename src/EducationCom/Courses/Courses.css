@@ -1,0 +1,44 @@
+.coursesComponent .coursesComponentInner .coursesComponent1 {
+  width: 400px;
+  height: 400px;
+  background-color: lightcyan;
+  border-radius: 20px;
+  transition: 0.3s all ease-in-out;
+  cursor: pointer;
+}
+.coursesComponent .coursesComponentInner .coursesComponent1:hover {
+  transform: scale(1.1);
+}
+.coursesComponent h3 {
+  color: #1eb2a6;
+}
+.coursesComponent .coursesComponentInner {
+  display: flex;
+  justify-content: space-around;
+}
+.coursesComponent .coursesComponentInner .coursesComponent1 .divBoxContent1 {
+  display: flex;
+  padding: 30px;
+  align-items: center;
+}
+.coursesComponent
+  .coursesComponentInner
+  .coursesComponent1
+  .divBoxContent1
+  .divBoxContent1Content {
+  width: 100%;
+}
+.coursesComponent
+  .coursesComponentInner
+  .coursesComponent1
+  .divBoxContent1
+  .divBoxContent1Image {
+  background-color: #1eb2a6;
+  border-radius: 50%;
+  height: 80px;
+  padding: 15px;
+  width: 80px;
+}
+.image img {
+  border-radius: 10px;
+}

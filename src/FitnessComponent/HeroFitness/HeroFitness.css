@@ -1,0 +1,20 @@
+.fitnessContainer {
+  background-image: url("https://mian-ali.github.io/GymWebsite/images/home.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 100vh;
+}
+.fitnessContainer .fitnessContainerContent {
+  color: white;
+  padding-top: 10%;
+  padding-right: 50%;
+  font-size: 25px;
+}
+.fitnessContainer .fitnessContainerh1 {
+  color: white;
+  padding-right: 70%;
+  padding-top: 2%;
+}
+.fitnessContainer span {
+  color: red;
+}

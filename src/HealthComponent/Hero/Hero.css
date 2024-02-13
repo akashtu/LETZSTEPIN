@@ -1,0 +1,38 @@
+.heroContainer {
+  height: 500px;
+  background: linear-gradient(90deg, #ecf2ff, #fbfcff);
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 32px;
+  margin-bottom: 50px;
+}
+.heroContainer .leftContainer {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: flex-start;
+  padding-left: 100px;
+}
+.heroContainer .rightContainer {
+  width: 30%;
+  padding-right: 50px;
+}
+.heroContainer .rightContainer .imageClass {
+  width: 100%;
+}
+.heroContainer .leftContainer p {
+  text-align: start;
+}
+.heroContainer .leftContainer h5 {
+  font-size: 20px;
+}
+.heroContainer .leftContainer h1 {
+  width: 51%;
+  text-align: start;
+  font-size: 30px;
+}
+.heroContainer .leftContainer p {
+  width: 51%;
+  text-align: start;
+  font-size: 20px;
+}

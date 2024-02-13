@@ -1,0 +1,11 @@
+.cardContainer {
+  display: flex;
+  justify-content: space-around;
+}
+.cardContainer .image {
+  transition: 0.3s all ease-in-out;
+  cursor: pointer;
+}
+.cardContainer .image:hover {
+  transform: scale(1.1);
+}

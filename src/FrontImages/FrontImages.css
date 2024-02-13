@@ -1,0 +1,96 @@
+.frontImagesContainer .banquet {
+  align-items: center;
+  background-image: url("https://kunalborkar2001-letz-step-in-assessment.vercel.app/static/media/banquet.cb09aae29768f76be457.jpeg");
+  background-position: 50%;
+  background-size: cover;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-size: 2vw;
+  justify-content: center;
+  min-height: 70vh;
+  overflow: hidden;
+  margin-top: 20px;
+}
+.frontImagesContainer .banquet h1 {
+  font-size: 40px;
+  font-style: italic;
+  color: #fff;
+}
+.frontImagesContainer .education {
+  align-items: center;
+  background-image: url("https://kunalborkar2001-letz-step-in-assessment.vercel.app/static/media/education.57692010076b46082723.jpeg");
+  background-position: 50%;
+  background-size: cover;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-size: 2vw;
+  justify-content: center;
+  min-height: 70vh;
+  overflow: hidden;
+  margin-top: 20px;
+}
+.frontImagesContainer .education h1 {
+  font-size: 40px;
+  font-style: italic;
+  color: #fff;
+}
+.frontImagesContainer .restaurant {
+  align-items: center;
+  background-image: url("https://kunalborkar2001-letz-step-in-assessment.vercel.app/static/media/restaurant.38e5ec6fd6d8a098548c.jpeg");
+  background-position: 50%;
+  background-size: cover;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-size: 2vw;
+  justify-content: center;
+  min-height: 70vh;
+  overflow: hidden;
+  width: 100%;
+  margin-top: 20px;
+}
+.frontImagesContainer .restaurant h1 {
+  font-size: 40px;
+  font-style: italic;
+  color: #fff;
+}
+.frontImagesContainer .property {
+  align-items: center;
+  background-image: url("https://kunalborkar2001-letz-step-in-assessment.vercel.app/static/media/property.42592aad55a75e79c6a0.jpeg");
+  background-position: 50%;
+  background-size: cover;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-size: 2vw;
+  justify-content: center;
+  min-height: 70vh;
+  overflow: hidden;
+  margin-top: 20px;
+}
+.frontImagesContainer .property h1 {
+  font-size: 40px;
+  font-style: italic;
+  color: #fff;
+}
+.frontImagesContainer .hotels {
+  align-items: center;
+  background-image: url("https://kunalborkar2001-letz-step-in-assessment.vercel.app/static/media/hotel.8b353da13c25bfc23e9f.jpeg");
+  background-position: 50%;
+  background-size: cover;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-size: 2vw;
+  justify-content: center;
+  min-height: 70vh;
+  overflow: hidden;
+  margin-top: 20px;
+}
+.frontImagesContainer .hotels h1 {
+  font-size: 40px;
+  font-style: italic;
+  color: #fff;
+}
